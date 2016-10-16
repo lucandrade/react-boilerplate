@@ -4,6 +4,6 @@ import React from 'react';
 
 export default class Home extends React.Component {
     render() {
-        return (<div>Aqui e ali e acol</div>);
+        return (<div>App</div>);
     }
 }
